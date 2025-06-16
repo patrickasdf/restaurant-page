@@ -1,0 +1,1 @@
+restaurant page rendered dynamically with JS DOM manipulation
